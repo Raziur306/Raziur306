@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Raziur Rahaman Ronju
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning competivie programming and android app development.
+- 🌱 I’m currently learning competitive programming and android app development.
 - 📫 Email: 20103067@iubat.edu
 
 
