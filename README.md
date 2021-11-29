@@ -18,7 +18,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img clickable="false" align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align="left" alt="C++" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png"/>
 <img align="left" alt="Android App Development" width="30px" src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
