@@ -18,13 +18,10 @@
 
 
 ### Connect with me:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 	![Facebook Gaming](https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white)  ![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)    ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
 
-[<img align="left"   width="30px" src="https://img.icons8.com/nolan/64/facebook-new.png"/>][facebook]
-[<img align="left"   width="30px" src="https://img.icons8.com/nolan/64/twitter.png" />][twitter]
-[<img align="left"   width="30px" src="https://img.icons8.com/nolan/64/linkedin.png" />][linkedin]
-[<img align="left"   width="30px" src="https://img.icons8.com/nolan/96/instagram-new.png" />][instagram]
 
 <br />
 
