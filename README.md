@@ -16,7 +16,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziur306&layout=compact)](https://github.com/Raziur306/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziur306&layout=compact&theme=dark)](https://github.com/Raziur306/github-readme-stats)
 ### Connect with me:
 
 [<img align="left"   width="30px" src="https://img.icons8.com/nolan/64/facebook-new.png"/>][facebook]
