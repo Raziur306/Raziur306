@@ -19,6 +19,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziur306&layout=compact&theme=dark)](https://github.com/Raziur306/github-readme-stats)
 ### Connect with me:
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Raziur306)](https://github.com/anuraghazra/github-readme-stats)
+
 [<img align="left"   width="30px" src="https://img.icons8.com/nolan/64/facebook-new.png"/>][facebook]
 [<img align="left"   width="30px" src="https://img.icons8.com/nolan/64/twitter.png" />][twitter]
 [<img align="left"   width="30px" src="https://img.icons8.com/nolan/64/linkedin.png" />][linkedin]
