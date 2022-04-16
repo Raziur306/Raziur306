@@ -8,7 +8,7 @@
 - 📫 Email: 20103067@iubat.edu
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raziur306&theme=radical)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Raziur306&custom_title=Raziur%20Rahamans%20Ronju's%20a%20Contribution%20Graph&hide_border=true)](https://github.com/Raziur306/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Raziur306&custom_title=Raziur%20Rahamans%20Ronju's%20a%20Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/Raziur306/github-readme-activity-graph)
 
 ### Connect with me:
 
