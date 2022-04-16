@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love biking & traveling
 - 📫 Email: 20103067@iubat.edu
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raziur306&theme=radical)                                  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziur306&layout=compact&theme=dark)](https://github.com/Raziur306/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raziur306&theme=radical)               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziur306&layout=compact&theme=dark)](https://github.com/Raziur306/github-readme-stats)
 
 
 
