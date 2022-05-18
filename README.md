@@ -1,4 +1,4 @@
-### Hi there, I'm Md. Raziur Rahaman Ronju 👋
+### Hi there, I'm Md Raziur Rahaman Ronju 👋
 ## I'm a Student, and Developer !!
 
 - 👀 I’m interested in programming
