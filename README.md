@@ -29,19 +29,18 @@
 
 
 
-
-
 <br />
 
-### Languages and Tools:
-<img clickable="false" align="left" alt="C" width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img align="left" alt="C++" width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png"/>
-<img align="left" alt="Android App Development" width="30px" src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
-<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" alt="Github" width="30px" src="https://img.icons8.com/dusk/48/000000/github.png"/>
-<br />
-<br />
+### 👨‍💻 Programming languages
+
+
+<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 
 ---
 [twitter]: https://twitter.com/RaziurRahaman01 
