@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love biking & traveling
 - 📫 Email: 20103067@iubat.edu
 
