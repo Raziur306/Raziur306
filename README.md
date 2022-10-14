@@ -66,5 +66,5 @@
 [linkedin]: https://linkedin.com/in/codeSTACKr
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Raziur306&custom_title=Raziur%20Rahamans%20Ronju's%20a%20Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/Raziur306/github-readme-activity-graph)
+[![Raziur's github activity graph](https://activity-graph.herokuapp.com/graph?username=Raziur306&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/Raziur306/github-readme-activity-graph)
 
