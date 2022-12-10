@@ -9,7 +9,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<img width="55%" align="right" alt="Github" src="https://developer.android.com/static/images/hero-assets/android-jetpack.svg" />
+<img width="50%" align="right" alt="Github" src="https://developer.android.com/static/images/hero-assets/android-jetpack.svg" />
 
 ## I'm a Student, and Developer !!
 
