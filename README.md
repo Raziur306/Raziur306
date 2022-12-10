@@ -70,5 +70,5 @@
 
 
   
-[![Raziur's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raziur306&theme=github-compact)]
+![Raziur's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raziur306&custom_title=Raziur's%20Contribution%20Graph&theme=github-compact)
 
