@@ -8,6 +8,9 @@
 </p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<img width="55%" align="right" alt="Github" src="https://developer.android.com/static/images/hero-assets/android-jetpack.svg" />
+
 ## I'm a Student, and Developer !!
 
 - 👀 I’m interested in programming
@@ -66,5 +69,6 @@
 [linkedin]: https://linkedin.com/in/codeSTACKr
 
 
-[![Raziur's github activity graph](https://activity-graph.herokuapp.com/graph?username=Raziur306&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark)](https://github.com/Raziur306/github-readme-activity-graph)
+  
+[![Raziur's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
