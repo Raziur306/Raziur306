@@ -48,7 +48,8 @@
 <a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Solidity" src="https://img.shields.io/badge/-Solidity-FFFFFF?logo=solidity&logoColor=black"></a>
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="JavaScript" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=javascript&logoColor=white"></a>
     
 
 
