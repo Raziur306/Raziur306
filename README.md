@@ -50,7 +50,9 @@
 <a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Solidity" src="https://img.shields.io/badge/-Solidity-FFFFFF?logo=solidity&logoColor=black"></a>
 <a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361DAFB"></a> 
-<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="JavaScript" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=javascript&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=javascript&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/raziur-rahaman"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-43853D.svg?logo=javascript&logoColor=white"></a>
+
 
 ### 💻 Software and tools
 
