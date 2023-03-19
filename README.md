@@ -4,8 +4,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Raziur306"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mobile%20Applicaiton%20Develper;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/Raziur306"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Mobile+Application+Developer;Experience+in+Web+%26+Blockchain;Always+learning+new+things"></a>
 </p>
+
+
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
