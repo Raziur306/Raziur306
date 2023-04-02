@@ -20,6 +20,7 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love biking & traveling
 - 📫 Email: 20103067@iubat.edu
+- 🌐 Portfolio: [visit](portfolio-one-chi-61.vercel.app)
 
 
 
