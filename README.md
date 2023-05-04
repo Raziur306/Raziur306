@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Raziur306"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Mobile+Application+Developer;Experience+in+Web+%26+Blockchain;Always+learning+new+things"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=700&height=60&lines=Full-Stack+Software+Developer;Experience+in+Mobile%2C+Web+and+Blockchain+Development;Always+learning+new+things"></a>
 </p>
 
 
@@ -13,13 +13,13 @@
 
 <img width="50%" align="right" alt="Github" src="https://developer.android.com/static/images/hero-assets/android-jetpack.svg" />
 
-## I'm a Student, and Developer !!
+## I'm a Student, and Full-Stack Software Developer !!
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Goals: Contribute more to Open Source projects
+- 🥅 Goals: To be a Top Class Software Engineer
 - ⚡ Fun fact: I love biking & traveling
-- 📫 Email: 20103067@iubat.edu
+- 📫 Email: raziur.rahaman.ronju@gmai.com
 - 🌐 Portfolio: [visit](https://portfolio-one-chi-61.vercel.app/)
 
 
@@ -36,7 +36,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Raziur306)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raziur-rahaman/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/raziur.rahaman01)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:20103067@iubat.edu)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:raziur.rahaman.ronju@gmail.com)
 
 
 <br />
