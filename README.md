@@ -9,9 +9,7 @@
 
 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<img width="50%" align="right" alt="Github" src="https://developer.android.com/static/images/hero-assets/android-jetpack.svg" />
 
 ## I'm a Student, and Full-Stack Software Developer !!
 
@@ -21,6 +19,8 @@
 - ⚡ Fun fact: I love biking & traveling
 - 📫 Email: raziur.rahaman.ronju@gmai.com
 - 🌐 Portfolio: [visit](https://portfolio-one-chi-61.vercel.app/)
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 
