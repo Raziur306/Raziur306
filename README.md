@@ -13,7 +13,7 @@
 ## I'm a Student, and Full-Stack Software Developer !!
 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently building on Blockchain Space
 - 🥅 Goals: To be a Top Class Software Engineer
 - ⚡ Fun fact: I love biking & traveling
 - 📫 Email: raziur.rahaman.ronju@gmai.com
