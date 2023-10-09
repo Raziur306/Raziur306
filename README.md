@@ -8,8 +8,6 @@
 </p>
 
 
-
-
 ## I'm a Student, and Full-Stack Software Developer !!
 
 - 👀 I’m interested in programming
