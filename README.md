@@ -15,7 +15,7 @@
 - 🥅 Goals: To be a Top Class Software Engineer
 - ⚡ Fun fact: I love biking & traveling
 - 📫 Email: raziur.rahaman.ronju@gmai.com
-- 🌐 Portfolio: [visit](https://portfolio-one-chi-61.vercel.app/)
+- 🌐 Portfolio: [visit](https://raziur.me)
 
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
