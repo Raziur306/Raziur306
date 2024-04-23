@@ -42,8 +42,6 @@ into the tried and true web2 wonders, reach out and connect with me on ✨
 ### 👨‍💻 Programming Languages & Frameworks
 
 
-<a href="https://www.linkedin.com/in/raziur306"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/raziur306"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/raziur306"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/raziur306"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/raziur306"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
