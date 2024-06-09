@@ -8,7 +8,7 @@
 </p>
 
 
-## Full-Stack Web3 Developer | Leading Blockchain & Fintech Innovation !!
+## Full-Stack Web3 Engineer | Leading Blockchain & Fintech Innovation !!
 
 - 🌱 I’m currently building on Blockchain Space
 - 🥅 Goals: Become a coding wizard, weaving spells with syntax and logic!
